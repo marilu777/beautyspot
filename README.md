@@ -1,0 +1,2 @@
+# beautyspot
+Training my Java 
